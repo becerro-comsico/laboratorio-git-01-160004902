@@ -1,1 +1,4 @@
-"hola soy david" 
+"hola soy david"
+"18 años"
+"V semestre"
+"Peso 80 kg" 
