@@ -2,3 +2,4 @@
 "18 años"
 "V semestre"
 "Peso 80 kg" 
+"mis vacunas"
